@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi 👋 I'm Tharindu
 
-<!--
-**TPabasara/TPabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate full Stack developer and aspiring Cloud Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on e-commerce full stack project
+- 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+Skills
+
+-Programming Languages
+
+  Java Scripts
+  Type Scripts
+  Python
+
+-Frontend Development
+
+  Next.js
+
+-Backend Development
+
+  FastAPI
+
+-Database
+
+ PostgreSQL
+
+-Software
+
+ Postman
+
+
+
