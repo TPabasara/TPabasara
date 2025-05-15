@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m a Full-Stack Developer and aspiring Cloud Engineer, currently pursuing a Bachelor's degree in Computer Science at the University of Sri Jayewardenepura in Sri Lanka. With a strong passion for technology and innovation, I enjoy building scalable web applications and am continuously exploring the world of cloud computing to deepen my expertise and expand my impact in the tech industry.
 <br/>
 <br/>
-   🧠  I'm currently learning FastAPI
+   🧠  I'm currently learning FastAPI and Docker.
    
    ### Skills
 
