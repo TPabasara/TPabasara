@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 <br/>
 
-  ### Aspiring cloud engineer
+  ###
 
 <br/>
-I’m an aspiring Cloud Engineer with the knowledge of web development, currently pursuing a Bachelor's degree in Computer Science at the University of Sri Jayewardenepura in Sri Lanka. With a strong passion for technology and innovation, I enjoy building scalable web applications and am continuously exploring the world of cloud computing to deepen my expertise and expand my impact in the tech industry.
+I’m with the knowledge of web development, currently pursuing a Bachelor's degree in Computer Science at the University of Sri Jayewardenepura in Sri Lanka. With a strong passion for technology and innovation, I enjoy building scalable web applications and am continuously exploring the world of cloud computing to deepen my expertise and expand my impact in the tech industry.
 <br/>
 <br/>
    🧠  I'm currently learning.
